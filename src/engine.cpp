@@ -1,5 +1,9 @@
+#include "engine.h"
 
+Engine::Engine() {
 
-int main(int argc, const char* argv[]) {
-	return 0;
+}
+
+Engine::~Engine() {
+
 }

@@ -20,6 +20,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\src\engine.cpp" />
+    <ClCompile Include="..\..\src\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\src\engine.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{4478FB4E-A207-477C-83BA-D1B364E4D63A}</ProjectGuid>
