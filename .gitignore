@@ -12,4 +12,7 @@
 *.la
 *.a
 
-/build/
+*.opensdf
+.vs/
+Debug/
+Release/
